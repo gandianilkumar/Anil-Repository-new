@@ -2,9 +2,8 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
-}   
 //dev 2 push from local
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class AddNumbers {
     public static void main(String[] args) {
@@ -17,3 +16,7 @@ public class AddNumbers {
         System.out.println("Sum: " + sum);
     }
 }   
+
+}  
+
+new code by developer 1 without pull the code
